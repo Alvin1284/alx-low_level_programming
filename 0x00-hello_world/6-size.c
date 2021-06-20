@@ -5,7 +5,7 @@
  * the program prints size of variables
  * main: prints the size of a variable
  * sizeof - evaluates the size of a variable
- * return: Always 0 (Success)
+ *  Return: Always 0 (Success)
  */
 int main(void)
 {
